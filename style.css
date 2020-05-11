@@ -1,0 +1,35 @@
+* {
+  margin:0;
+  padding:0;
+  border: 0;
+}
+
+body {
+  background:#34e8eb;
+}
+
+label {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+input {
+  width: 100%;
+  padding: 3px 5px;
+  border: 1px solid #ddd;
+  margin-top: 10px;
+}
+
+.container {
+  width: 700px;
+  min-height: 400px;
+  margin: 30px auto;
+  border-radius: 5px;
+  background: #fff;
+  padding: 10px 15px;
+}
+
+p {
+  margin-top: 10px;
+  font-family: sans-serif;
+}
